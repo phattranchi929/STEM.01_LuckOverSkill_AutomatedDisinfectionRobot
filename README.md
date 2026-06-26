@@ -58,7 +58,6 @@ Chào mừng các đội ngũ sáng lập trẻ đến với không gian lưu tr
 
 *Hình ảnh bản vẽ phối cảnh của nhóm (Đính kèm file ảnh từ thư mục design_visuals):*
 ![Bản vẽ phối cảnh 2045](design_visuals/banve.png)
-
 Bức phối cảnh phòng khám tương lai ở trên thể hiện rõ cách robot khử khuẩn tự động hoạt động trong môi trường thực tế.
 Trong không gian sạch sẽ, hiện đại, robot AURA di chuyển nhẹ nhàng giữa các giường khám, phát tia UV-C và phun sương khử khuẩn, trong khi bác sĩ và y tá theo dõi dữ liệu khử khuẩn trên màn hình hiển thị “99.8% STERILIZED”. Mọi hoạt động đều được giám sát qua bảng điều khiển thông minh, giúp đảm bảo an toàn tuyệt đối cho bệnh nhân và nhân viên y tế.
 Đây chính là hình ảnh thu nhỏ của Smart Healthcare 2045 — nơi công nghệ và con người phối hợp hài hòa để tạo ra môi trường y tế chủ động, minh bạch và đáng tin cậy.
